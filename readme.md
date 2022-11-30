@@ -1,4 +1,4 @@
-## HI THERE
+## Olá, meu nome é Dimitri Ezarel
 
  <div>
   <a href="https://github.com/dimitriezarel">
