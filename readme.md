@@ -1,7 +1,9 @@
-## Hi, my name is Dimitri Ezarel
+## Olá, meu nome é Dimitri Ezarel
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+- Estudante do curso de Ciência da Computação(2/8)
+- Tenho 18 anos
 
 
  <div>
