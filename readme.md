@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Dimitri;I'm+a+Full-Stack+Junior+Developer;I'm+studying+Computer+Science)](https://git.io/typing-svg)
 
+## About me
+I have been interested in computers since I was 9 years old, but it was only in 2022, at the age of 18, that I started to study programming languages. I am currently looking for an internship opportunity in the area.
+
+##
+
  <div>
   <a href="https://github.com/dimitriezarel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimitriezarel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -10,7 +15,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
- ### Studying in this moment:
+## Studying in this moment
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
